@@ -1,6 +1,6 @@
 2022-04-16
 
-Live Demo:
+Live Demo: https://brilliant-maamoul-6518cd.netlify.app/
 
-Following along with Ania on YouTube (https://www.youtube.com/watch?v=ec8vSKJuZTk&t=3880s) learning how to build apps with JavaScript. I've been learning many of these principles and ideas in FCC and many of them look familiar such as the for loop, creating functions, if statements, and being able to use them in practice to build something is incredibly helpful for understanding it deeper.
+Following along with Ania on YouTube (https://www.youtube.com/watch?v=ec8vSKJuZTk&t=3880s) learning how to build apps with JavaScript. I've been learning many of these principles and ideas in FCC and many of them look familiar such as the for loop, creating functions, if statements, and being able to use them in practice to build something is incredibly helpful for understanding it deeper. I struggled towards the end because most of my content was not loading similar to hers during the tutorial such as the blue box, but after staring at my screen for awhile I realized I didn't include the 'All' in document.querySelectorAll('squares') which really shows that something so small can really break the entire project. I also learned more about structuring my JS, putting global variables at the top, functions in the middle and console.log at the bottom to output the content. Was good using Math.floor(Math.random() * however-many-items-we-have-in-this-case-we-had-9). Was also interesting using the classList.add and classList.remove features again, really showing that when the user does something, in this case click on the mole, it adds and removes classes from HTML which affects the CSS. It's great seeing how previous material such as HTML and CSS are interweaving with JavaScript.
 
